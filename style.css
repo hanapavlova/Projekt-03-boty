@@ -141,7 +141,7 @@ h1 {
     list-style: none;
 }
 
-.vybrana {
+.vybrana:hover {
     color: #f15f42;
     font-weight: bold;
     border: 1px solid #f15f42;
@@ -168,3 +168,8 @@ h1 {
     display: block;
     padding: 15px 30px;
 }
+
+.tlacitko:hover {
+    background-color: #753022;
+}
+
